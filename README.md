@@ -15,6 +15,8 @@ Posts include content, creation date, and author information.
 Edit and delete buttons are available for post authors.
 A "post detail" view displays individual posts and their associated comments.
 Comments are user-generated and listed under posts, with the newest comments displayed first.
+![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/294e8be8-37a1-4b53-96b7-b2fba2df3dd4)
+
 
 ## User Profiles
 Users can create and edit their profiles.
