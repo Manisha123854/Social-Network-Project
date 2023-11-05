@@ -31,6 +31,8 @@ A profile edit view allows users to update their profile information.
 Users can follow and unfollow other users on the platform.
 Modifications to the user profile model to support following relationships.
 Views and templates are provided for displaying follower status and action buttons.
+![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/1edea702-71ed-4de8-b388-180911812b9d)
+
 
 ## "Like" and "Dislike" Feature
 Users can "like" and "dislike" posts.
