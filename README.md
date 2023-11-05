@@ -23,6 +23,8 @@ Users can create and edit their profiles.
 Profile pictures and default images are supported through the media directory.
 URL patterns, views, and templates are in place for displaying user profiles.
 A profile edit view allows users to update their profile information.
+![Uploading image.png…]()
+
 
 ## Follow/Unfollow Feature
 Users can follow and unfollow other users on the platform.
