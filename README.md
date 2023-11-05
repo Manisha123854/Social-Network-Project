@@ -3,8 +3,8 @@
 This repository contains a fully developed social media app using Django and Python. Here are the key features and implementation details of the final project:
 
 ## User Authentication
-Users can register and log in using their email and password.
-Customized authentication views to require email during registration.
+- Users can register and log in using their email and password.
+- Customized authentication views to require email during registration.
 Redirects users to the landing page after successful login.
 ![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/951e9aaf-812c-406e-b1f2-38fcae0339bb)
 
