@@ -38,7 +38,7 @@ Views and templates are provided for displaying follower status and action butto
 Users can "like" and "dislike" posts.
 "Add like" and "add dislike" views are available for post interaction.
 HTML templates for post lists, profiles, and post detail pages display like and dislike counts.
-![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/d9049764-9f8b-4e81-bec5-87a1e2ae8ea1)
+![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/1ef67a70-8497-427b-bcfa-640a57e518eb)
 
 
 These features collectively create a complete social media platform with user authentication, post management, user profiles, social interactions, and more.
