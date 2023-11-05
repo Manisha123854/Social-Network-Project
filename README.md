@@ -23,7 +23,8 @@ Users can create and edit their profiles.
 Profile pictures and default images are supported through the media directory.
 URL patterns, views, and templates are in place for displaying user profiles.
 A profile edit view allows users to update their profile information.
-![Uploading image.png…]()
+![image](https://github.com/Manisha152/Social-Network-Project/assets/87291128/2b6d7b4c-034f-4a03-85fd-f98f8b88c397)
+
 
 
 ## Follow/Unfollow Feature
